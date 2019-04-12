@@ -1,0 +1,9 @@
+Post:
+
+name
+type
+
+Response:
+
+postId: String
+responseText: String
